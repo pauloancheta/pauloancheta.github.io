@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Batch Change Files"
-date: 2016-04-22
+date: 2017-04-26
 categories:
-  - base64-images
-  - jsonapi-resources
-  - rspec_api_documentation
+  - zsh
+  - sed
+  - the silver searcher
 description: "Fast and simple. But more importantly, it's fast"
 ---
 
