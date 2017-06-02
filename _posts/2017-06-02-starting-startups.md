@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting Startups"
-date: 2016-02-06
+date: 2016-06-02
 categories:
   - startups
   - elixir
