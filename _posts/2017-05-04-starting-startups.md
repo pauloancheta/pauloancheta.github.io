@@ -8,6 +8,7 @@ categories:
   - phoenix
   - ruby on rails
 description: "Which Tech Stack to Choose From"
+header-img: "img/post-bg-01.jpg"
 ---
 
 In the past few months, I have been wanting to start a startup. The entrepreneur
@@ -27,6 +28,8 @@ I have dabbled with it for a while but I cannot say that I am so well versed at
 it that I would know what to do whenever I would encounter any problem. Not
 saying that I know everything in Rails but there is lesser chance of me not
 knowing what I am doing if I use something that I am really familiar with.
+
+![phoenix-framework](/img/posts/phoenixframework-logo.png)
 
 I was up for the challenge though. `mix phoenix.new startup`. I typed it with so
 much enthusiasm that I would learn so much building something new. In no time, I've
@@ -64,6 +67,8 @@ in a language that he also knows and he is familiar to. If I made him learn a
 completely new language that he might not even be interested in, our progress will be
 slow and we won't be creating this in the best practice that the language demands.
 I needed a co-founder. We should do it again in [Rails](http://rubyonrails.org/).
+
+![ruby-on-rails](/img/posts/rails-logo.png)
 
 Ruby on rails is tried and tested and we both work in a company that works primarily
 on rails. It is our full time jobs and we know what we are doing in rails. We
