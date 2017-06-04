@@ -1,0 +1,24 @@
+.unbounce-image { background-image: url("../img/portfolio/unbounce.png"); }
+.goodbits-image { background-image: url("../img/portfolio/goodbits.png"); }
+.pixhug-image { background-image: url("../img/portfolio/pixhug.png"); }
+.attendease-image { background-image: url("../img/portfolio/attendease.png"); }
+.avenuespaces-image { background-image: url("../img/portfolio/avenuespaces.png"); }
+.portfolio-container { margin-bottom: 30px; }
+.portfolio-container .portfolio-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 400px;
+  margin-bottom: 30px;
+}
+.portfolio-divider {
+  margin: 50px 0;
+  border: 0;
+  height: 1px;
+  background-color: black;
+}
+.portfolio-description p {
+  line-height: 1.9;
+  font-size: 17px;
+  color: #6D6D6D;
+}
