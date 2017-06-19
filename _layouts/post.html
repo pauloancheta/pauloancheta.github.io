@@ -14,6 +14,13 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <br>
+                    <span>
+                      <a class="twitter-share-button"
+                        href="https://twitter.com/intent/tweet?text={{ page.title }}%20@pauloancheta"
+                        data-size="large">
+                      </a>
+                    </span>
                 </div>
             </div>
         </div>
