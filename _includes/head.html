@@ -58,7 +58,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@pauloancheta">
   <meta name="twitter:creator" content="@pauloancheta">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.description }}">
-  <meta name="twitter:image" content="http://pauloancheta.com/{{ page.header-img }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="http://pauloancheta.com/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
 </head>
