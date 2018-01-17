@@ -15,7 +15,9 @@ currently living in Sydney, Australia at the time of this writing.
 It has been an amazing adventure so far. I have met a lot of interesting people
 on the way. Working remotely has not been easy. There had been a few things that
 I needed to learn quickly and be efficient at. It is one of those things that
-you have to learn on the job.
+you have to learn on the job since no one would teach how to work efficiently
+while working remotely. No one teaches how work with remote people, or at least
+none that I know of. So here are the things that I thought was hard:
 
 ## Being part of the culture while being away.
 
@@ -24,45 +26,55 @@ you have to learn on the job.
 While being away from my work, I do get jealous that they do company outings,
 beers on Friday afternoon, or even team lunch when welcoming a new team member.
 But it's one of those things that there isn't actually a solution for. The
-company cannot just give me a bonus to eat out by myself because even if you
-did, nothing has changed, that is still not the company culture
+company cannot just give me a bonus to eat out by myself because even if they
+did, nothing would changed, that is still not a company culture.
+On special occasions, it is nice that my employer gives out a few incentives
+such as gift cards or additional allowance for celebrations that I have missed
+such as the company Christmas party but the fact is, I will still be celebrating
+without my team.
 
 Slack is a great tool for remote culture. I have found that I keep up with slack
 more that I've been working remotely since that is the only way I can feel like
 I'm still part of the team. Slack jokes, memes and gifs has become my way to
-interact and be present with the company. Or at least because that is all there
-is, slack.
-
-On special occasions, it is nice for my employer to give our a few incentives
-such as gift cards or additional allowance for celebrations that I have missed
-such as the company Christmas party. Again, not the same but the gesture is
-definitely appreciated.
+interact and be present with the company.
 
 ## Working together: standups, planning sprints, submitting or receiving code reviews, delivery
 
-I've worked on teams where synchronous standup works best and teams where
-asynchronous standup has so much value. When a team writes blog posts from time
-to time, the asynchronous standup has alot more value. Each day, the standup is
-detailed to a point where the pull request just made sense because you can
-follow the thinking behind it, or possibly has a description that details every
-decision that was made. Some people might not like it because each pull request
-or github issue becomes a thesis. Definitely not for a team who does not like
-reading or writing.
+I've worked on a team where a synchronous standup worked best and a team where
+asynchronous standup has more value. I find that when a team writes blog posts
+from time to time, the asynchronous standup has more value to the team because
+each day, the asynchrnous standup (or more of a roundup of what you have done
+during the day) is detailed to a point where the pull request just made sense.
+I can follow the thinking behind pull-requests from standups or their github
+descriptions. Some people might not like it because each pull request
+or github issue becomes more like a thesis which definitely is not for a team
+who does not like reading or writing.
 
-However, when a team does not write as much, synchronous stand up is more
-valuable. I would admit that there is more team cohesion when doing synchronous
-standups. In the my synchronous team, it made us feel that we are on the same
-room, given that the internet connection allowed us to have a smooth sailing
-meeting.
+When a team does is not composed of writers, synchronous stand up is more
+valuable. I would admit that team cohesion is far better when doing synchronous
+standups. But as far as team productivity, I lean towards asynchronous
+communication.
 
-Sprint review becomes very boring. I find that it does not provide a lot of
-value. Being remote, I tend to look at the "board" every few hours to look for
-more things to work on. Since I am not interrupted in my work, I finish tickets
-a bit faster and it would stay in review for longer time than usual. The only
-way I can avoid this being stuck in review and testing is to have a
-perfectionist mentality where my purpose in coding is to not have any review on
-it and it should just go though testing and deployment. While when I give
-reviews, I don't make it a blocker as much as I can.
+Programming is in my point of view, very asynchronous. When we create
+pull-requests, we don't need everyone to work at the same time unless we are
+pair programming. Code review does not need to be synchronous as well because
+even if it is synchronous, you don't get a review in an instant anyway.
+
+Architecting software is very synchronous, but when there is too many cooks in
+the kitchen, it spoils the food. I most often think that when architectural
+meetings take place, I don't have to be present on the meeting because most
+people who go to that meeting have already set their minds on how to do things.
+I tend to just follow what the presented idea is and then iterate over it.
+
+Since I am not interrupted in most of my work day, I tend to finish tickets
+a bit faster and it would stay in review for longer time than usual because of
+asnychronosity. My solution for this problem is to have a perfectionist
+mentality where my tickets should just go through the board without hindrance
+after I have put it in review. It seldom happens since there are still points
+that I have not considered, but it certainly made my tickets go through faster
+than when I was working synchronously with my co-workers. When I review tickets,
+I would usually just leave a comment and not block them in any way so that
+others can review the same ticket.
 
 I make it a point that my peers should not worry about the app on my timezone.
 If there's anything that is happening, I will look after it when I can so their
