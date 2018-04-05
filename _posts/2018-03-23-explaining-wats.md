@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding a Ruby WAT"
-date: 2018-02-26
+date: 2018-03-23
 categories:
-  - rails
-  - kubernetes
+  - ruby
+  - wat
 description: "When ruby returns something that you don't understand, you write a blogpost about it"
 header-img: "img/posts/wat.jpg"
 ---
