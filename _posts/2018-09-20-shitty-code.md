@@ -33,8 +33,8 @@ effectively trying to communicate to the reader, context will be lost, and it wi
 for the reader.
 
 {% highlight ruby %}
-# create a payment when user enough
-# money to pay for the item
+# create a payment when user has
+# enough money to pay for the item
 if wallet.has_money? && wallet.money > item.price
   wallet.charge!(item.price)
 end
