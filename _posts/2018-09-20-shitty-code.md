@@ -8,7 +8,7 @@ categories:
 description: >
   It's always easy to diss a code that you don't have a context on.
   But things change when you start asking why it happened in the first place.
-header-img: "img/posts/books.jpg"
+header-img: "img/posts/agenda.jpg"
 ---
 
 Coming from a consultancy advocating for TDD (Test-Driven-Design) and clean code, it's easy to look
